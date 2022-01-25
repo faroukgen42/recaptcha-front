@@ -1,0 +1,3 @@
+brew install ngrok     
+./ngrok authtoken yourKey
+ngrok http 80
